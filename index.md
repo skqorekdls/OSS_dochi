@@ -138,5 +138,5 @@
 
 ## 관련 링크
 
-- [GitHub Repository](https://github.com/your-github-id)
+- [GitHub Repository](https://github.com/skqorekdls/OSS_dochi)
 - [Portfolio Website](https://your-portfolio-link.com)
