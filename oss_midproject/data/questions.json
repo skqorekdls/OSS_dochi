@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "가렌의 대표 소속 지역은 어디인가?",
+    "options": [
+      "데마시아",
+      "녹서스",
+      "슈리마",
+      "자운"
+    ],
+    "answer": "데마시아",
+    "explanation": "가렌은 데마시아의 상징적인 전사이다."
+  },
+  {
+    "id": 2,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "카타리나의 대표 소속 지역은 어디인가?",
+    "options": [
+      "아이오니아",
+      "녹서스",
+      "프렐요드",
+      "필트오버"
+    ],
+    "answer": "녹서스",
+    "explanation": "카타리나는 녹서스의 암살자로 알려져 있다."
+  },
+  {
+    "id": 3,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "아지르와 가장 관련이 깊은 지역은 어디인가?",
+    "options": [
+      "데마시아",
+      "슈리마",
+      "빌지워터",
+      "그림자 군도"
+    ],
+    "answer": "슈리마",
+    "explanation": "아지르는 고대 슈리마의 황제이다."
+  },
+  {
+    "id": 4,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "애쉬와 가장 관련이 깊은 지역은 어디인가?",
+    "options": [
+      "프렐요드",
+      "타곤",
+      "아이오니아",
+      "공허"
+    ],
+    "answer": "프렐요드",
+    "explanation": "애쉬는 프렐요드의 전쟁 지도자 중 하나다."
+  },
+  {
+    "id": 5,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "럭스와 가장 관련이 깊은 지역은 어디인가?",
+    "options": [
+      "녹서스",
+      "데마시아",
+      "빌지워터",
+      "아이쉬탈"
+    ],
+    "answer": "데마시아",
+    "explanation": "럭스는 데마시아의 크라운가드 가문 출신이다."
+  },
+  {
+    "id": 6,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "징크스는 보통 어떤 역할로 가장 많이 알려져 있는가?",
+    "options": [
+      "원거리 딜러(마크스맨)",
+      "탱커",
+      "정글 탱커",
+      "서포터"
+    ],
+    "answer": "원거리 딜러(마크스맨)",
+    "explanation": "징크스는 대표적인 마크스맨 챔피언이다."
+  },
+  {
+    "id": 7,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "쓰레시는 보통 어떤 역할로 가장 많이 분류되는가?",
+    "options": [
+      "서포터",
+      "탑 브루저",
+      "정글러",
+      "원거리 딜러"
+    ],
+    "answer": "서포터",
+    "explanation": "쓰레시는 대표적인 유틸형 서포터다."
+  },
+  {
+    "id": 8,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "가렌은 보통 어떤 라인에 가장 자주 등장하는가?",
+    "options": [
+      "탑",
+      "바텀 원딜",
+      "서포터",
+      "정글"
+    ],
+    "answer": "탑",
+    "explanation": "가렌은 전통적으로 탑 라인 브루저/전사로 자주 쓰인다."
+  },
+  {
+    "id": 9,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "럭스는 공식 역할 기준으로 어디에 가장 가까운가?",
+    "options": [
+      "메이지 / 서포터",
+      "탱커 / 파이터",
+      "암살자 / 정글러",
+      "마크스맨 / 브루저"
+    ],
+    "answer": "메이지 / 서포터",
+    "explanation": "럭스는 메이지이면서 서포터로도 자주 분류된다."
+  },
+  {
+    "id": 10,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "아리는 공식 역할 기준으로 어디에 가까운가?",
+    "options": [
+      "메이지 / 암살자",
+      "탱커 / 서포터",
+      "브루저 / 탱커",
+      "마크스맨 / 서포터"
+    ],
+    "answer": "메이지 / 암살자",
+    "explanation": "아리는 기동성을 가진 메이지/암살자 계열로 소개된다."
+  },
+  {
+    "id": 11,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "아리의 궁극기 이름은 무엇인가?",
+    "options": [
+      "Spirit Rush",
+      "Final Spark",
+      "Super Mega Death Rocket!",
+      "Crowstorm"
+    ],
+    "answer": "Spirit Rush",
+    "explanation": "아리의 궁극기(R)는 Spirit Rush다."
+  },
+  {
+    "id": 12,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "럭스의 궁극기 이름은 무엇인가?",
+    "options": [
+      "Chaos Storm",
+      "Final Spark",
+      "Last Breath",
+      "Moonfall"
+    ],
+    "answer": "Final Spark",
+    "explanation": "럭스의 궁극기(R)는 Final Spark다."
+  },
+  {
+    "id": 13,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "징크스의 궁극기 이름은 무엇인가?",
+    "options": [
+      "Bullet Time",
+      "Super Mega Death Rocket!",
+      "Collateral Damage",
+      "Trueshot Barrage"
+    ],
+    "answer": "Super Mega Death Rocket!",
+    "explanation": "징크스의 궁극기(R)는 Super Mega Death Rocket!이다."
+  },
+  {
+    "id": 14,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "아리의 E 스킬 이름은 무엇인가?",
+    "options": [
+      "Charm",
+      "Taunt",
+      "Fear",
+      "Sleep"
+    ],
+    "answer": "Charm",
+    "explanation": "아리의 E 스킬은 적을 매혹시키는 Charm이다."
+  },
+  {
+    "id": 15,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "럭스의 Q 스킬 이름은 무엇인가?",
+    "options": [
+      "Light Binding",
+      "Prismatic Barrier",
+      "Lucent Singularity",
+      "Final Spark"
+    ],
+    "answer": "Light Binding",
+    "explanation": "럭스의 Q는 Light Binding이다."
+  },
+  {
+    "id": 16,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "징크스의 E 스킬 이름은 무엇인가?",
+    "options": [
+      "Flame Chompers!",
+      "Switcheroo!",
+      "Zap!",
+      "Pow-Pow"
+    ],
+    "answer": "Flame Chompers!",
+    "explanation": "징크스의 E는 Flame Chompers!다."
+  },
+  {
+    "id": 17,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "데마시아가 특히 경계하는 존재로 가장 잘 알려진 것은?",
+    "options": [
+      "마법",
+      "금속",
+      "바다",
+      "모래폭풍"
+    ],
+    "answer": "마법",
+    "explanation": "데마시아는 전통적으로 마법을 두려워하고 경계하는 성향이 강하다."
+  },
+  {
+    "id": 18,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "녹서스가 중요하게 여기는 가치로 가장 적절한 것은?",
+    "options": [
+      "힘과 실력",
+      "완전한 고립",
+      "자연과의 조화만",
+      "기계 문명 배척"
+    ],
+    "answer": "힘과 실력",
+    "explanation": "녹서스는 힘, 능력, 야망을 중시하는 제국으로 묘사된다."
+  },
+  {
+    "id": 19,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "아이오니아는 지리적으로 어떤 형태로 설명되는가?",
+    "options": [
+      "거대한 군도",
+      "사막 한가운데 단일 도시",
+      "화산 아래 지하 왕국",
+      "빙하 위의 이동 요새"
+    ],
+    "answer": "거대한 군도",
+    "explanation": "아이오니아는 여러 섬과 지방으로 이루어진 거대한 군도다."
+  },
+  {
+    "id": 20,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "슈리마는 과거 어떤 모습으로 유명했는가?",
+    "options": [
+      "대륙을 아우르던 번영한 제국",
+      "작은 어촌 마을",
+      "해적 연합 도시",
+      "마법 학교만 있는 섬"
+    ],
+    "answer": "대륙을 아우르던 번영한 제국",
+    "explanation": "슈리마는 과거 대륙 규모의 찬란한 제국이었다."
+  },
+  {
+    "id": 21,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "아리의 궁극기 이름은 Spirit Rush이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 챔피언 페이지 기준으로 아리의 R은 Spirit Rush이다."
+  },
+  {
+    "id": 22,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "럭스의 궁극기 이름은 Final Spark이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "럭스의 R은 Final Spark다."
+  },
+  {
+    "id": 23,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "징크스의 궁극기 이름은 Super Mega Death Rocket!이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "징크스의 R은 Super Mega Death Rocket!이다."
+  },
+  {
+    "id": 24,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "가렌은 데마시아와 깊게 연결된 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "가렌은 데마시아를 대표하는 전사다."
+  },
+  {
+    "id": 25,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "카타리나는 프렐요드 출신 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "카타리나는 녹서스 계열 챔피언이다."
+  },
+  {
+    "id": 26,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "데마시아는 전통적으로 마법을 경계하는 사회로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "데마시아는 마법을 두려워하고 통제하려는 경향이 있다."
+  },
+  {
+    "id": 27,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "녹서스는 힘과 실력을 중시하는 제국으로 자주 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "녹서스는 능력과 야망을 높게 평가한다."
+  },
+  {
+    "id": 28,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "징크스는 보통 원거리 딜러 계열로 분류된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "징크스는 대표적인 마크스맨이다."
+  },
+  {
+    "id": 29,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "쓰레시는 일반적으로 서포터로 분류된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "쓰레시는 공식적으로도 서포터 역할에 가깝다."
+  },
+  {
+    "id": 30,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "아이오니아는 사막 제국으로 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "아이오니아는 여러 섬과 지방으로 이루어진 군도다."
+  },
+  {
+    "id": 31,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "애쉬는 프렐요드와 관련된 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "애쉬는 프렐요드의 상징적인 챔피언 중 하나다."
+  },
+  {
+    "id": 32,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "가렌은 주로 바텀 원딜로 활용되는 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "가렌은 전통적으로 탑 전사 계열이다."
+  },
+  {
+    "id": 33,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "아지르는 슈리마와 관련된 황제 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "아지르는 슈리마 제국의 황제였다."
+  },
+  {
+    "id": 34,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "아리의 E 스킬 이름은 Charm이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "아리의 E는 Charm이다."
+  },
+  {
+    "id": 35,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "럭스의 Q 스킬 이름은 Final Spark이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Final Spark는 럭스의 R이며 Q는 Light Binding이다."
+  },
+  {
+    "id": 36,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "럭스는 데마시아 출신 설정으로 잘 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "럭스는 데마시아의 크라운가드 가문 출신이다."
+  },
+  {
+    "id": 37,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "럭스는 메이지/서포터 계열로 자주 소개된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 페이지에서도 메이지/서포터 성격이 반영된다."
+  },
+  {
+    "id": 38,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "슈리마는 과거 번영한 제국이었다는 설정이 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "슈리마는 고대에 대륙을 아우르는 제국이었다."
+  },
+  {
+    "id": 39,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "징크스의 E 스킬은 Flame Chompers!이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "징크스의 E는 Flame Chompers!다."
+  },
+  {
+    "id": 40,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "가렌과 럭스는 남매 관계로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "둘은 크라운가드 남매다."
+  },
+  {
+    "id": 41,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "신 짜오가 충성을 바치는 왕가와 가장 관련 깊은 지역은 어디인가?",
+    "options": [
+      "데마시아",
+      "녹서스",
+      "슈리마",
+      "타곤"
+    ],
+    "answer": "데마시아",
+    "explanation": "신 짜오는 데마시아 왕가에 충성하는 전사로 알려져 있다."
+  },
+  {
+    "id": 42,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "퀸과 항상 함께 언급되는 동료는 누구인가?",
+    "options": [
+      "발러",
+      "티버",
+      "울프",
+      "브리스틀"
+    ],
+    "answer": "발러",
+    "explanation": "퀸은 전설적인 독수리 발러와 함께 싸운다."
+  },
+  {
+    "id": 43,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "킨드레드를 이루는 두 존재의 조합으로 올바른 것은?",
+    "options": [
+      "양과 늑대",
+      "까마귀와 뱀",
+      "호랑이와 사자",
+      "용과 인간"
+    ],
+    "answer": "양과 늑대",
+    "explanation": "킨드레드는 죽음의 쌍둥이 본질인 양(Lamb)과 늑대(Wolf)다."
+  },
+  {
+    "id": 44,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "오른은 프렐요드에서 어떤 존재로 알려져 있는가?",
+    "options": [
+      "대장장이의 반신",
+      "해적왕",
+      "빛의 사제",
+      "공허의 군주"
+    ],
+    "answer": "대장장이의 반신",
+    "explanation": "오른은 forging과 craftsmanship의 반신으로 묘사된다."
+  },
+  {
+    "id": 45,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "볼리베어는 프렐요드에서 어떤 존재로 알려져 있는가?",
+    "options": [
+      "전투의 반신",
+      "모래의 황제",
+      "빛의 사도",
+      "필트오버 경찰"
+    ],
+    "answer": "전투의 반신",
+    "explanation": "볼리베어는 프렐요드의 전투 영혼이자 반신이다."
+  },
+  {
+    "id": 46,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "자야와 라칸의 종족으로 알맞은 것은?",
+    "options": [
+      "바스타야",
+      "요들",
+      "다르킨",
+      "승천자"
+    ],
+    "answer": "바스타야",
+    "explanation": "자야와 라칸은 모두 바스타야다."
+  },
+  {
+    "id": 47,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "나서스의 고대 슈리마 설정과 가장 잘 맞는 표현은?",
+    "options": [
+      "자칼 머리의 승천자",
+      "얼음 마녀",
+      "유령 해적",
+      "기계 인형"
+    ],
+    "answer": "자칼 머리의 승천자",
+    "explanation": "나서스는 고대 슈리마의 자칼 형상 승천자다."
+  },
+  {
+    "id": 48,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "레넥톤의 고대 슈리마 설정과 가장 잘 맞는 표현은?",
+    "options": [
+      "악어 형상의 승천자",
+      "하늘에서 온 용",
+      "불꽃 요들",
+      "타곤의 성기사"
+    ],
+    "answer": "악어 형상의 승천자",
+    "explanation": "레넥톤은 고대 슈리마의 악어 형상 승천자다."
+  },
+  {
+    "id": 49,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "스웨인은 현재 어떤 지역의 통치자 이미지가 강한가?",
+    "options": [
+      "녹서스",
+      "데마시아",
+      "아이오니아",
+      "밴들 시티"
+    ],
+    "answer": "녹서스",
+    "explanation": "제리코 스웨인은 녹서스의 지배자로 묘사된다."
+  },
+  {
+    "id": 50,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "미스 포츈과 가장 깊은 관련이 있는 지역은?",
+    "options": [
+      "빌지워터",
+      "데마시아",
+      "프렐요드",
+      "공허"
+    ],
+    "answer": "빌지워터",
+    "explanation": "미스 포츈은 빌지워터의 상징적인 챔피언이다."
+  },
+  {
+    "id": 51,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "아리의 Q 스킬 이름은 무엇인가?",
+    "options": [
+      "Orb of Deception",
+      "Spirit Rush",
+      "Fox-Fire",
+      "Essence Theft"
+    ],
+    "answer": "Orb of Deception",
+    "explanation": "아리의 Q는 Orb of Deception이다."
+  },
+  {
+    "id": 52,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "아리의 W 스킬 이름은 무엇인가?",
+    "options": [
+      "Fox-Fire",
+      "Charm",
+      "Spirit Rush",
+      "Essence Theft"
+    ],
+    "answer": "Fox-Fire",
+    "explanation": "아리의 W는 Fox-Fire이다."
+  },
+  {
+    "id": 53,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "럭스의 E 스킬 이름은 무엇인가?",
+    "options": [
+      "Lucent Singularity",
+      "Light Binding",
+      "Prismatic Barrier",
+      "Final Spark"
+    ],
+    "answer": "Lucent Singularity",
+    "explanation": "럭스의 E는 Lucent Singularity이다."
+  },
+  {
+    "id": 54,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "럭스의 W 스킬 이름은 무엇인가?",
+    "options": [
+      "Prismatic Barrier",
+      "Light Binding",
+      "Illumination",
+      "Lucent Singularity"
+    ],
+    "answer": "Prismatic Barrier",
+    "explanation": "럭스의 W는 Prismatic Barrier다."
+  },
+  {
+    "id": 55,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 Q 스킬 이름은 무엇인가?",
+    "options": [
+      "Switcheroo!",
+      "Zap!",
+      "Flame Chompers!",
+      "Get Excited!"
+    ],
+    "answer": "Switcheroo!",
+    "explanation": "징크스의 Q는 무기를 바꾸는 Switcheroo!다."
+  },
+  {
+    "id": 56,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 W 스킬 이름은 무엇인가?",
+    "options": [
+      "Zap!",
+      "Switcheroo!",
+      "Get Excited!",
+      "Flame Chompers!"
+    ],
+    "answer": "Zap!",
+    "explanation": "징크스의 W는 Zap!이다."
+  },
+  {
+    "id": 57,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "럭스의 패시브 이름은 무엇인가?",
+    "options": [
+      "Illumination",
+      "Radiance",
+      "Light Mark",
+      "Solar Pulse"
+    ],
+    "answer": "Illumination",
+    "explanation": "럭스의 패시브는 Illumination이다."
+  },
+  {
+    "id": 58,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 패시브 이름은 무엇인가?",
+    "options": [
+      "Get Excited!",
+      "Pow-Pow",
+      "Loose Cannon",
+      "Rocket Queen"
+    ],
+    "answer": "Get Excited!",
+    "explanation": "징크스의 패시브는 Get Excited!이다."
+  },
+  {
+    "id": 59,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "바스타야에 대한 설명으로 가장 알맞은 것은?",
+    "options": [
+      "인간 혈통과 고대 영적 마법의 흔적을 함께 지닌 종족",
+      "기계로만 이루어진 종족",
+      "오직 슈리마 사막에서만 태어나는 종족",
+      "모두 요들보다 작다"
+    ],
+    "answer": "인간 혈통과 고대 영적 마법의 흔적을 함께 지닌 종족",
+    "explanation": "공식 설정에서 바스타야는 인간 혈통과 전(前)인간 종족의 영적 마법을 함께 지닌 존재들이다."
+  },
+  {
+    "id": 60,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "데마시아 사회의 분위기를 가장 잘 설명하는 문장은?",
+    "options": [
+      "질서, 의무, 정의를 중시한다",
+      "혼돈과 약탈만을 최고의 가치로 둔다",
+      "기계 개조를 의무화한다",
+      "오직 바다무역만 중요하다"
+    ],
+    "answer": "질서, 의무, 정의를 중시한다",
+    "explanation": "데마시아는 정의·명예·의무를 강하게 강조하는 왕국이다."
+  },
+  {
+    "id": 61,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "프렐요드에 대한 설명으로 가장 적절한 것은?",
+    "options": [
+      "혹독하고 전사적인 문화가 강한 얼음의 땅",
+      "완전한 사막 국가",
+      "기계 진보가 최우선인 도시 연합",
+      "공중 섬으로만 이루어진 지역"
+    ],
+    "answer": "혹독하고 전사적인 문화가 강한 얼음의 땅",
+    "explanation": "프렐요드는 혹독한 환경 속에서 태어난 전사들의 땅이다."
+  },
+  {
+    "id": 62,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "킨드레드의 설정을 가장 잘 설명하는 것은?",
+    "options": [
+      "죽음의 쌍둥이 본질",
+      "시간을 다루는 과학자",
+      "슈리마의 황제",
+      "자운의 발명가"
+    ],
+    "answer": "죽음의 쌍둥이 본질",
+    "explanation": "킨드레드는 죽음을 상징하는 양과 늑대의 이중적 존재다."
+  },
+  {
+    "id": 63,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "신 짜오가 과거에 겪었던 장소로 자주 언급되는 곳은?",
+    "options": [
+      "녹서스의 투기장",
+      "빌지워터 항구",
+      "타곤의 성전",
+      "공허의 균열"
+    ],
+    "answer": "녹서스의 투기장",
+    "explanation": "신 짜오는 한때 녹서스의 투기장에서 살아남아야 했던 인물이다."
+  },
+  {
+    "id": 64,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "아래 중 일반적으로 정글러 이미지가 가장 강한 챔피언은?",
+    "options": [
+      "리 신",
+      "징크스",
+      "럭스",
+      "가렌"
+    ],
+    "answer": "리 신",
+    "explanation": "리 신은 전통적인 정글러 이미지가 강하다."
+  },
+  {
+    "id": 65,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "아래 중 서포터 이미지가 가장 강한 챔피언은?",
+    "options": [
+      "소라카",
+      "야스오",
+      "다리우스",
+      "나서스"
+    ],
+    "answer": "소라카",
+    "explanation": "소라카는 대표적인 힐/유틸 서포터다."
+  },
+  {
+    "id": 66,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "아래 중 미드 메이지 이미지가 가장 강한 챔피언은?",
+    "options": [
+      "아리",
+      "레넥톤",
+      "브라움",
+      "트린다미어"
+    ],
+    "answer": "아리",
+    "explanation": "아리는 전통적인 미드 메이지/암살자다."
+  },
+  {
+    "id": 67,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "아래 중 탑 전사 이미지가 가장 강한 챔피언은?",
+    "options": [
+      "다리우스",
+      "징크스",
+      "소나",
+      "이즈리얼"
+    ],
+    "answer": "다리우스",
+    "explanation": "다리우스는 대표적인 탑 전사 챔피언이다."
+  },
+  {
+    "id": 68,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "아래 중 바텀 듀오의 원거리 딜러로 가장 자연스러운 챔피언은?",
+    "options": [
+      "애쉬",
+      "쉔",
+      "말파이트",
+      "노틸러스"
+    ],
+    "answer": "애쉬",
+    "explanation": "애쉬는 대표적인 마크스맨 챔피언이다."
+  },
+  {
+    "id": 69,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "킨드레드는 양과 늑대로 이루어진 존재다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "킨드레드는 Lamb와 Wolf로 이루어진 죽음의 상징이다."
+  },
+  {
+    "id": 70,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "오른은 프렐요드의 대장장이 반신으로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "오른은 forging과 craftsmanship의 반신이다."
+  },
+  {
+    "id": 71,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "볼리베어는 데마시아의 기사단장이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "볼리베어는 프렐요드의 전투 반신이다."
+  },
+  {
+    "id": 72,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "자야와 라칸은 모두 바스타야다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "자야와 라칸은 바스타야 종족이다."
+  },
+  {
+    "id": 73,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "나서스는 슈리마의 고대 승천자다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "나서스는 자칼 머리 형상의 승천자다."
+  },
+  {
+    "id": 74,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "레넥톤은 공허 출신의 존재다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "레넥톤은 슈리마의 승천자다."
+  },
+  {
+    "id": 75,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "아리의 Q 스킬 이름은 Orb of Deception이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "아리의 Q는 Orb of Deception이다."
+  },
+  {
+    "id": 76,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "아리의 W 스킬 이름은 Charm이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Charm은 E이며 W는 Fox-Fire다."
+  },
+  {
+    "id": 77,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "럭스의 E 스킬 이름은 Lucent Singularity이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "럭스의 E는 Lucent Singularity다."
+  },
+  {
+    "id": 78,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "럭스의 W 스킬 이름은 Final Spark이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Final Spark는 R이고 W는 Prismatic Barrier다."
+  },
+  {
+    "id": 79,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 Q 스킬 이름은 Switcheroo!이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "징크스의 Q는 Switcheroo!다."
+  },
+  {
+    "id": 80,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 패시브 이름은 Zap!이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Zap!은 W이며 패시브는 Get Excited!이다."
+  },
+  {
+    "id": 81,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "바스타야는 인간 혈통과 영적 마법의 뿌리를 함께 지닌 종족으로 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 설정상 바스타야는 혼합 혈통과 영적 마법의 유산을 지닌다."
+  },
+  {
+    "id": 82,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "프렐요드는 온화한 기후와 무역으로 유명한 열대 도시다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "프렐요드는 혹독한 한랭 지대다."
+  },
+  {
+    "id": 83,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "신 짜오는 과거 녹서스의 투기장에서 살아남은 설정이 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "신 짜오의 배경 서사에서 중요한 부분이다."
+  },
+  {
+    "id": 84,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "리 신은 일반적으로 정글러 이미지가 강하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "리 신은 전통적인 정글 대표 챔피언이다."
+  },
+  {
+    "id": 85,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "소라카는 대표적인 서포터 챔피언으로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "소라카는 힐/유틸 서포터의 상징적 챔피언이다."
+  },
+  {
+    "id": 86,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "다리우스는 일반적으로 바텀 원딜로 가장 자주 분류된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "다리우스는 탑 전사 이미지가 강하다."
+  },
+  {
+    "id": 87,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "퀸은 독수리 발러와 함께 싸우는 데마시아 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "퀸과 발러는 항상 함께 언급된다."
+  },
+  {
+    "id": 88,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "데마시아는 질서와 의무를 중시하는 왕국으로 자주 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "정의·명예·의무가 대표 가치다."
+  },
+  {
+    "id": 89,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "공식 설정상 아이오니아를 가리키는 별칭으로 가장 잘 알려진 것은?",
+    "options": [
+      "First Lands",
+      "Golden Empire",
+      "Iron Frontier",
+      "Sunken Crown"
+    ],
+    "answer": "First Lands",
+    "explanation": "아이오니아는 종종 First Lands라고 불린다."
+  },
+  {
+    "id": 90,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "오른의 영역과 가장 직접적으로 연결되는 개념은?",
+    "options": [
+      "대장간과 단조",
+      "시간 역행",
+      "항해와 약탈",
+      "별자리 예언"
+    ],
+    "answer": "대장간과 단조",
+    "explanation": "오른은 forging과 craftsmanship의 반신이다."
+  },
+  {
+    "id": 91,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "볼리베어의 별칭으로 가장 알맞은 것은?",
+    "options": [
+      "The Thousand-Pierced Bear",
+      "The Radiant Stag",
+      "The Sunforged King",
+      "The Ocean Herald"
+    ],
+    "answer": "The Thousand-Pierced Bear",
+    "explanation": "볼리베어는 Thousand-Pierced Bear로도 불린다."
+  },
+  {
+    "id": 92,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "바스타야에 대한 설명으로 틀린 것은?",
+    "options": [
+      "모두 데마시아 출신 인간 귀족이다",
+      "고대 영적 마법과 관련이 있다",
+      "인간의 혈통이 섞여 있다",
+      "룬테라의 종족 분류 중 하나다"
+    ],
+    "answer": "모두 데마시아 출신 인간 귀족이다",
+    "explanation": "바스타야는 데마시아 귀족 집단이 아니라 별도의 종족적 뿌리를 가진 존재들이다."
+  },
+  {
+    "id": 93,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "킨드레드의 상징적 무기/행동 조합으로 올바른 것은?",
+    "options": [
+      "양은 활, 늑대는 추적",
+      "양은 검, 늑대는 방패",
+      "양은 창, 늑대는 치유",
+      "양은 총, 늑대는 주문"
+    ],
+    "answer": "양은 활, 늑대는 추적",
+    "explanation": "공식 설정에서 Lamb는 활로, Wolf는 쫓아가는 본질로 묘사된다."
+  },
+  {
+    "id": 94,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "다음 중 공식 세계관상 남매 관계인 조합은?",
+    "options": [
+      "가렌 - 럭스",
+      "다리우스 - 드레이븐",
+      "자야 - 라칸",
+      "레오나 - 다이애나"
+    ],
+    "answer": "가렌 - 럭스",
+    "explanation": "가렌과 럭스는 크라운가드 남매다."
+  },
+  {
+    "id": 95,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "다음 중 슈리마의 승천자 조합으로 가장 알맞은 것은?",
+    "options": [
+      "나서스 - 레넥톤",
+      "가렌 - 자르반 4세",
+      "자야 - 라칸",
+      "진 - 흐웨이"
+    ],
+    "answer": "나서스 - 레넥톤",
+    "explanation": "나서스와 레넥톤은 모두 고대 슈리마의 승천자다."
+  },
+  {
+    "id": 96,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "다음 중 데마시아 왕가에 대한 충성 설정으로 가장 잘 알려진 인물은?",
+    "options": [
+      "신 짜오",
+      "갱플랭크",
+      "제드",
+      "말자하"
+    ],
+    "answer": "신 짜오",
+    "explanation": "신 짜오는 데마시아 왕가의 충직한 전사로 소개된다."
+  },
+  {
+    "id": 97,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "다음 중 아리의 스킬 이름이 아닌 것은?",
+    "options": [
+      "Fox-Fire",
+      "Orb of Deception",
+      "Charm",
+      "Final Spark"
+    ],
+    "answer": "Final Spark",
+    "explanation": "Final Spark는 럭스의 궁극기다."
+  },
+  {
+    "id": 98,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "다음 중 럭스의 스킬 이름 조합으로만 이루어진 것은?",
+    "options": [
+      "Light Binding / Prismatic Barrier / Lucent Singularity / Final Spark",
+      "Charm / Fox-Fire / Spirit Rush / Orb of Deception",
+      "Zap! / Flame Chompers! / Switcheroo! / Super Mega Death Rocket!",
+      "Death Sentence / Dark Passage / Flay / The Box"
+    ],
+    "answer": "Light Binding / Prismatic Barrier / Lucent Singularity / Final Spark",
+    "explanation": "해당 4개는 모두 럭스의 스킬 이름이다."
+  },
+  {
+    "id": 99,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "다음 중 징크스의 스킬 이름 조합으로만 이루어진 것은?",
+    "options": [
+      "Switcheroo! / Zap! / Flame Chompers! / Super Mega Death Rocket!",
+      "Orb of Deception / Charm / Fox-Fire / Spirit Rush",
+      "Light Binding / Final Spark / Prismatic Barrier / Lucent Singularity",
+      "Decisive Strike / Courage / Judgment / Demacian Justice"
+    ],
+    "answer": "Switcheroo! / Zap! / Flame Chompers! / Super Mega Death Rocket!",
+    "explanation": "모두 징크스의 스킬 이름이다."
+  },
+  {
+    "id": 100,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "다음 중 전통적인 '미드 AP 메이지/암살자' 이미지와 가장 거리가 먼 챔피언은?",
+    "options": [
+      "아리",
+      "럭스",
+      "가렌",
+      "르블랑"
+    ],
+    "answer": "가렌",
+    "explanation": "가렌은 전사/브루저 이미지가 강하다."
+  },
+  {
+    "id": 101,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "다음 중 일반적인 바텀 원거리 딜러 조합의 핵심 딜러로 가장 덜 어울리는 챔피언은?",
+    "options": [
+      "징크스",
+      "애쉬",
+      "케이틀린",
+      "말파이트"
+    ],
+    "answer": "말파이트",
+    "explanation": "말파이트는 탱커/이니시에이터 이미지가 강하다."
+  },
+  {
+    "id": 102,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "아래 중 '보호/유틸 제공 서포터' 성향으로 가장 자연스러운 챔피언 조합은?",
+    "options": [
+      "쓰레시 - 소라카",
+      "가렌 - 다리우스",
+      "징크스 - 애쉬",
+      "나서스 - 레넥톤"
+    ],
+    "answer": "쓰레시 - 소라카",
+    "explanation": "쓰레시와 소라카는 모두 서포터 계열로 자연스럽다."
+  },
+  {
+    "id": 103,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "아래 중 공허(Void)와 가장 직접적으로 연관된 존재는?",
+    "options": [
+      "벨베스",
+      "가렌",
+      "브라움",
+      "미스 포츈"
+    ],
+    "answer": "벨베스",
+    "explanation": "벨베스는 공허와 강하게 연결된 존재다."
+  },
+  {
+    "id": 104,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "아래 중 그림자 군도와 가장 직접적으로 연관된 챔피언은?",
+    "options": [
+      "쓰레시",
+      "갈리오",
+      "리븐",
+      "아칼리"
+    ],
+    "answer": "쓰레시",
+    "explanation": "쓰레시는 그림자 군도의 대표 챔피언이다."
+  },
+  {
+    "id": 105,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "공식 지역 설정상 '정의, 명예, 의무' 이미지와 가장 가까운 지역은?",
+    "options": [
+      "데마시아",
+      "빌지워터",
+      "자운",
+      "공허"
+    ],
+    "answer": "데마시아",
+    "explanation": "데마시아의 핵심 가치로 자주 언급된다."
+  },
+  {
+    "id": 106,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "아래 중 요들 챔피언으로 가장 잘 알려진 인물은?",
+    "options": [
+      "티모",
+      "가렌",
+      "다리우스",
+      "스웨인"
+    ],
+    "answer": "티모",
+    "explanation": "티모는 대표적인 요들 챔피언이다."
+  },
+  {
+    "id": 107,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "필트오버/자운 세계관과 발명가 이미지로 가장 잘 알려진 챔피언은?",
+    "options": [
+      "에코",
+      "세주아니",
+      "브라움",
+      "신드라"
+    ],
+    "answer": "에코",
+    "explanation": "에코는 자운의 천재 발명가 이미지가 강하다."
+  },
+  {
+    "id": 108,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "아래 중 '궁극기 이름 ↔ 챔피언' 연결이 올바른 것은?",
+    "options": [
+      "Spirit Rush ↔ 아리",
+      "Final Spark ↔ 징크스",
+      "Super Mega Death Rocket! ↔ 럭스",
+      "Charm ↔ 럭스"
+    ],
+    "answer": "Spirit Rush ↔ 아리",
+    "explanation": "Spirit Rush는 아리의 궁극기다."
+  },
+  {
+    "id": 109,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "아이오니아는 'First Lands'라는 별칭으로도 불린다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 지역 페이지에서 아이오니아는 First Lands로 불린다."
+  },
+  {
+    "id": 110,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "볼리베어는 'The Thousand-Pierced Bear'라는 별칭으로 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "볼리베어의 공식 설명에 등장하는 별칭이다."
+  },
+  {
+    "id": 111,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "오른은 항해와 해적질의 신으로 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "오른은 단조와 장인의 반신이다."
+  },
+  {
+    "id": 112,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "나서스와 레넥톤은 모두 고대 슈리마의 승천자다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "둘 다 고대 슈리마의 승천자다."
+  },
+  {
+    "id": 113,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "티모는 요들 챔피언으로 잘 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "티모는 대표적인 요들이다."
+  },
+  {
+    "id": 114,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "벨베스는 공허와 직접적으로 연결된 존재다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "벨베스는 Void와 강하게 관련된다."
+  },
+  {
+    "id": 115,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "쓰레시는 그림자 군도와 관련이 없다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "쓰레시는 그림자 군도의 대표 챔피언이다."
+  },
+  {
+    "id": 116,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "말파이트는 일반적인 바텀 원거리 딜러 핵심 챔피언으로 분류된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "말파이트는 탱커/이니시에이터 이미지가 강하다."
+  },
+  {
+    "id": 117,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "Final Spark는 아리의 궁극기 이름이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Final Spark는 럭스의 궁극기다."
+  },
+  {
+    "id": 118,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "Super Mega Death Rocket!은 징크스의 궁극기 이름이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "징크스의 R이다."
+  },
+  {
+    "id": 119,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "신 짜오는 데마시아 왕가에 대한 충성으로 잘 알려진 전사다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "신 짜오는 데마시아 왕가의 충신 이미지가 강하다."
+  },
+  {
+    "id": 120,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "바스타야는 모두 순수 인간 귀족으로만 이루어진 종족이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "바스타야는 인간 혈통과 고대 영적 마법의 뿌리를 함께 지닌 종족이다."
+  },
+  {
+    "id": 121,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "아리의 스킬 목록에 Final Spark가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "Final Spark는 럭스의 스킬 이름이다."
+  },
+  {
+    "id": 122,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "럭스의 스킬 이름에는 Light Binding과 Lucent Singularity가 포함된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "둘 다 럭스의 Q/E 스킬이다."
+  },
+  {
+    "id": 123,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "쓰레시와 소라카는 모두 서포터 성향으로 이해하기 좋은 챔피언들이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "둘 다 보호/유틸 서포터 맥락에서 자연스럽다."
+  },
+  {
+    "id": 124,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "가렌과 럭스는 남매 관계다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "크라운가드 남매로 알려져 있다."
+  },
+  {
+    "id": 125,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "데마시아는 정의, 명예, 의무의 이미지를 가진 왕국으로 자주 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 지역 설명에 핵심 가치로 제시된다."
+  },
+  {
+    "id": 126,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "퀸의 동료인 발러는 늑대다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "발러는 독수리다."
+  },
+  {
+    "id": 127,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "킨드레드에서 양은 추적하고 늑대는 활을 쏜다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "양은 활을 쏘고 늑대는 추적한다."
+  },
+  {
+    "id": 128,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "가렌은 전형적인 미드 AP 메이지라고 보기 어렵다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "가렌은 전사/브루저 이미지가 강하다."
+  }
+]
