@@ -156,13 +156,13 @@
     "difficulty": "easy",
     "question": "아리의 궁극기 이름은 무엇인가?",
     "options": [
-      "Spirit Rush",
-      "Final Spark",
-      "Super Mega Death Rocket!",
+      "혼령 질주",
+      "최후의 섬광",
+      "초강력 초토화 로켓!",
       "Crowstorm"
     ],
-    "answer": "Spirit Rush",
-    "explanation": "아리의 궁극기(R)는 Spirit Rush다."
+    "answer": "혼령 질주",
+    "explanation": "아리의 궁극기(R)는 혼령 질주다."
   },
   {
     "id": 12,
@@ -172,12 +172,12 @@
     "question": "럭스의 궁극기 이름은 무엇인가?",
     "options": [
       "Chaos Storm",
-      "Final Spark",
+      "최후의 섬광",
       "Last Breath",
       "Moonfall"
     ],
-    "answer": "Final Spark",
-    "explanation": "럭스의 궁극기(R)는 Final Spark다."
+    "answer": "최후의 섬광",
+    "explanation": "럭스의 궁극기(R)는 최후의 섬광이다."
   },
   {
     "id": 13,
@@ -187,12 +187,12 @@
     "question": "징크스의 궁극기 이름은 무엇인가?",
     "options": [
       "Bullet Time",
-      "Super Mega Death Rocket!",
+      "초강력 초토화 로켓!",
       "Collateral Damage",
       "Trueshot Barrage"
     ],
-    "answer": "Super Mega Death Rocket!",
-    "explanation": "징크스의 궁극기(R)는 Super Mega Death Rocket!이다."
+    "answer": "초강력 초토화 로켓!",
+    "explanation": "징크스의 궁극기(R)는 초강력 초토화 로켓!이다."
   },
   {
     "id": 14,
@@ -201,13 +201,13 @@
     "difficulty": "easy",
     "question": "아리의 E 스킬 이름은 무엇인가?",
     "options": [
-      "Charm",
+      "매혹",
       "Taunt",
       "Fear",
       "Sleep"
     ],
-    "answer": "Charm",
-    "explanation": "아리의 E 스킬은 적을 매혹시키는 Charm이다."
+    "answer": "매혹",
+    "explanation": "아리의 E 스킬은 적을 매혹시키는 매혹이다."
   },
   {
     "id": 15,
@@ -216,12 +216,12 @@
     "difficulty": "easy",
     "question": "럭스의 Q 스킬 이름은 무엇인가?",
     "options": [
-      "Light Binding",
-      "Prismatic Barrier",
-      "Lucent Singularity",
-      "Final Spark"
+      "빛의 속박",
+      "프리즘 보호막",
+      "광휘의 특이점",
+      "최후의 섬광"
     ],
-    "answer": "Light Binding",
+    "answer": "빛의 속박",
     "explanation": "럭스의 Q는 Light Binding이다."
   },
   {
@@ -231,12 +231,12 @@
     "difficulty": "easy",
     "question": "징크스의 E 스킬 이름은 무엇인가?",
     "options": [
-      "Flame Chompers!",
-      "Switcheroo!",
-      "Zap!",
+      "와작와작 뻥!",
+      "휘릭휘릭!",
+      "빠직!",
       "Pow-Pow"
     ],
-    "answer": "Flame Chompers!",
+    "answer": "와작와작 뻥!",
     "explanation": "징크스의 E는 Flame Chompers!다."
   },
   {
@@ -304,7 +304,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "아리의 궁극기 이름은 Spirit Rush이다.",
+    "question": "아리의 궁극기 이름은 혼령 질주이다.",
     "options": [
       "O",
       "X"
@@ -317,7 +317,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "럭스의 궁극기 이름은 Final Spark이다.",
+    "question": "럭스의 궁극기 이름은 최후의 섬광이다.",
     "options": [
       "O",
       "X"
@@ -330,7 +330,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "징크스의 궁극기 이름은 Super Mega Death Rocket!이다.",
+    "question": "징크스의 궁극기 이름은 초강력 초토화 로켓!이다.",
     "options": [
       "O",
       "X"
@@ -473,7 +473,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "아리의 E 스킬 이름은 Charm이다.",
+    "question": "아리의 E 스킬 이름은 매혹이다.",
     "options": [
       "O",
       "X"
@@ -486,7 +486,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "럭스의 Q 스킬 이름은 Final Spark이다.",
+    "question": "럭스의 Q 스킬 이름은 최후의 섬광이다.",
     "options": [
       "O",
       "X"
@@ -538,7 +538,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "easy",
-    "question": "징크스의 E 스킬은 Flame Chompers!이다.",
+    "question": "징크스의 E 스킬은 와작와작 뻥!이다.",
     "options": [
       "O",
       "X"
@@ -716,12 +716,12 @@
     "difficulty": "medium",
     "question": "아리의 Q 스킬 이름은 무엇인가?",
     "options": [
-      "Orb of Deception",
-      "Spirit Rush",
-      "Fox-Fire",
-      "Essence Theft"
+      "현혹의 구슬",
+      "혼령 질주",
+      "여우불",
+      "정기 흡수"
     ],
-    "answer": "Orb of Deception",
+    "answer": "현혹의 구슬",
     "explanation": "아리의 Q는 Orb of Deception이다."
   },
   {
@@ -731,12 +731,12 @@
     "difficulty": "medium",
     "question": "아리의 W 스킬 이름은 무엇인가?",
     "options": [
-      "Fox-Fire",
-      "Charm",
-      "Spirit Rush",
-      "Essence Theft"
+      "여우불",
+      "매혹",
+      "혼령 질주",
+      "정기 흡수"
     ],
-    "answer": "Fox-Fire",
+    "answer": "여우불",
     "explanation": "아리의 W는 Fox-Fire이다."
   },
   {
@@ -746,12 +746,12 @@
     "difficulty": "medium",
     "question": "럭스의 E 스킬 이름은 무엇인가?",
     "options": [
-      "Lucent Singularity",
-      "Light Binding",
-      "Prismatic Barrier",
-      "Final Spark"
+      "광휘의 특이점",
+      "빛의 속박",
+      "프리즘 보호막",
+      "최후의 섬광"
     ],
-    "answer": "Lucent Singularity",
+    "answer": "광휘의 특이점",
     "explanation": "럭스의 E는 Lucent Singularity이다."
   },
   {
@@ -761,12 +761,12 @@
     "difficulty": "medium",
     "question": "럭스의 W 스킬 이름은 무엇인가?",
     "options": [
-      "Prismatic Barrier",
-      "Light Binding",
-      "Illumination",
-      "Lucent Singularity"
+      "프리즘 보호막",
+      "빛의 속박",
+      "광채",
+      "광휘의 특이점"
     ],
-    "answer": "Prismatic Barrier",
+    "answer": "프리즘 보호막",
     "explanation": "럭스의 W는 Prismatic Barrier다."
   },
   {
@@ -776,12 +776,12 @@
     "difficulty": "medium",
     "question": "징크스의 Q 스킬 이름은 무엇인가?",
     "options": [
-      "Switcheroo!",
-      "Zap!",
-      "Flame Chompers!",
-      "Get Excited!"
+      "휘릭휘릭!",
+      "빠직!",
+      "와작와작 뻥!",
+      "신난다!"
     ],
-    "answer": "Switcheroo!",
+    "answer": "휘릭휘릭!",
     "explanation": "징크스의 Q는 무기를 바꾸는 Switcheroo!다."
   },
   {
@@ -791,12 +791,12 @@
     "difficulty": "medium",
     "question": "징크스의 W 스킬 이름은 무엇인가?",
     "options": [
-      "Zap!",
-      "Switcheroo!",
-      "Get Excited!",
-      "Flame Chompers!"
+      "빠직!",
+      "휘릭휘릭!",
+      "신난다!",
+      "와작와작 뻥!"
     ],
-    "answer": "Zap!",
+    "answer": "빠직!",
     "explanation": "징크스의 W는 Zap!이다."
   },
   {
@@ -806,13 +806,13 @@
     "difficulty": "medium",
     "question": "럭스의 패시브 이름은 무엇인가?",
     "options": [
-      "Illumination",
+      "광채",
       "Radiance",
       "Light Mark",
       "Solar Pulse"
     ],
-    "answer": "Illumination",
-    "explanation": "럭스의 패시브는 Illumination이다."
+    "answer": "광채",
+    "explanation": "럭스의 기본 지속 효과는 광채이다."
   },
   {
     "id": 58,
@@ -821,13 +821,13 @@
     "difficulty": "medium",
     "question": "징크스의 패시브 이름은 무엇인가?",
     "options": [
-      "Get Excited!",
+      "신난다!",
       "Pow-Pow",
       "Loose Cannon",
       "Rocket Queen"
     ],
-    "answer": "Get Excited!",
-    "explanation": "징크스의 패시브는 Get Excited!이다."
+    "answer": "신난다!",
+    "explanation": "징크스의 기본 지속 효과는 신난다!이다."
   },
   {
     "id": 59,
@@ -1062,7 +1062,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "아리의 Q 스킬 이름은 Orb of Deception이다.",
+    "question": "아리의 Q 스킬 이름은 현혹의 구슬이다.",
     "options": [
       "O",
       "X"
@@ -1075,7 +1075,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "아리의 W 스킬 이름은 Charm이다.",
+    "question": "아리의 W 스킬 이름은 매혹이다.",
     "options": [
       "O",
       "X"
@@ -1088,7 +1088,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "럭스의 E 스킬 이름은 Lucent Singularity이다.",
+    "question": "럭스의 E 스킬 이름은 광휘의 특이점이다.",
     "options": [
       "O",
       "X"
@@ -1101,7 +1101,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "럭스의 W 스킬 이름은 Final Spark이다.",
+    "question": "럭스의 W 스킬 이름은 최후의 섬광이다.",
     "options": [
       "O",
       "X"
@@ -1114,7 +1114,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "징크스의 Q 스킬 이름은 Switcheroo!이다.",
+    "question": "징크스의 Q 스킬 이름은 휘릭휘릭!이다.",
     "options": [
       "O",
       "X"
@@ -1127,7 +1127,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "medium",
-    "question": "징크스의 패시브 이름은 Zap!이다.",
+    "question": "징크스의 패시브 이름은 빠직!이다.",
     "options": [
       "O",
       "X"
@@ -1366,12 +1366,12 @@
     "difficulty": "hard",
     "question": "다음 중 아리의 스킬 이름이 아닌 것은?",
     "options": [
-      "Fox-Fire",
-      "Orb of Deception",
-      "Charm",
-      "Final Spark"
+      "여우불",
+      "현혹의 구슬",
+      "매혹",
+      "최후의 섬광"
     ],
-    "answer": "Final Spark",
+    "answer": "최후의 섬광",
     "explanation": "Final Spark는 럭스의 궁극기다."
   },
   {
@@ -1381,12 +1381,12 @@
     "difficulty": "hard",
     "question": "다음 중 럭스의 스킬 이름 조합으로만 이루어진 것은?",
     "options": [
-      "Light Binding / Prismatic Barrier / Lucent Singularity / Final Spark",
-      "Charm / Fox-Fire / Spirit Rush / Orb of Deception",
-      "Zap! / Flame Chompers! / Switcheroo! / Super Mega Death Rocket!",
-      "Death Sentence / Dark Passage / Flay / The Box"
+      "빛의 속박 / 프리즘 보호막 / 광휘의 특이점 / 최후의 섬광",
+      "매혹 / 여우불 / 혼령 질주 / 현혹의 구슬",
+      "빠직! / 와작와작 뻥! / 휘릭휘릭! / 초강력 초토화 로켓!",
+      "사형 선고 / 어둠의 통로 / 사슬 채찍 / 영혼 감옥"
     ],
-    "answer": "Light Binding / Prismatic Barrier / Lucent Singularity / Final Spark",
+    "answer": "빛의 속박 / 프리즘 보호막 / 광휘의 특이점 / 최후의 섬광",
     "explanation": "해당 4개는 모두 럭스의 스킬 이름이다."
   },
   {
@@ -1396,12 +1396,12 @@
     "difficulty": "hard",
     "question": "다음 중 징크스의 스킬 이름 조합으로만 이루어진 것은?",
     "options": [
-      "Switcheroo! / Zap! / Flame Chompers! / Super Mega Death Rocket!",
-      "Orb of Deception / Charm / Fox-Fire / Spirit Rush",
-      "Light Binding / Final Spark / Prismatic Barrier / Lucent Singularity",
-      "Decisive Strike / Courage / Judgment / Demacian Justice"
+      "휘릭휘릭! / 빠직! / 와작와작 뻥! / 초강력 초토화 로켓!",
+      "현혹의 구슬 / 매혹 / 여우불 / 혼령 질주",
+      "빛의 속박 / 최후의 섬광 / 프리즘 보호막 / 광휘의 특이점",
+      "결정타 / 용기 / 심판 / 데마시아의 정의"
     ],
-    "answer": "Switcheroo! / Zap! / Flame Chompers! / Super Mega Death Rocket!",
+    "answer": "휘릭휘릭! / 빠직! / 와작와작 뻥! / 초강력 초토화 로켓!",
     "explanation": "모두 징크스의 스킬 이름이다."
   },
   {
@@ -1531,12 +1531,12 @@
     "difficulty": "hard",
     "question": "아래 중 '궁극기 이름 ↔ 챔피언' 연결이 올바른 것은?",
     "options": [
-      "Spirit Rush ↔ 아리",
-      "Final Spark ↔ 징크스",
-      "Super Mega Death Rocket! ↔ 럭스",
+      "혼령 질주 ↔ 아리",
+      "최후의 섬광 ↔ 징크스",
+      "초강력 초토화 로켓! ↔ 럭스",
       "Charm ↔ 럭스"
     ],
-    "answer": "Spirit Rush ↔ 아리",
+    "answer": "혼령 질주 ↔ 아리",
     "explanation": "Spirit Rush는 아리의 궁극기다."
   },
   {
@@ -1648,7 +1648,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "hard",
-    "question": "Final Spark는 아리의 궁극기 이름이다.",
+    "question": "최후의 섬광은 아리의 궁극기 이름이다.",
     "options": [
       "O",
       "X"
@@ -1661,7 +1661,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "hard",
-    "question": "Super Mega Death Rocket!은 징크스의 궁극기 이름이다.",
+    "question": "초강력 초토화 로켓!은 징크스의 궁극기 이름이다.",
     "options": [
       "O",
       "X"
@@ -1700,7 +1700,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "hard",
-    "question": "아리의 스킬 목록에 Final Spark가 포함된다.",
+    "question": "아리의 스킬 목록에 최후의 섬광이 포함된다.",
     "options": [
       "O",
       "X"
@@ -1713,7 +1713,7 @@
     "type": "ox",
     "category": "skill_knowledge",
     "difficulty": "hard",
-    "question": "럭스의 스킬 이름에는 Light Binding과 Lucent Singularity가 포함된다.",
+    "question": "럭스의 스킬 이름에는 빛의 속박과 광휘의 특이점이 포함된다.",
     "options": [
       "O",
       "X"
@@ -1798,5 +1798,966 @@
     ],
     "answer": "O",
     "explanation": "가렌은 전사/브루저 이미지가 강하다."
+  },
+  {
+    "id": 129,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "체력 물약은 소모품 아이템에 속한다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "체력 물약은 사용하면 사라지는 대표적인 소모품이다."
+  },
+  {
+    "id": 130,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "다음 중 시야 확보와 가장 직접적으로 관련된 아이템은?",
+    "options": [
+      "제어 와드",
+      "롱소드",
+      "거인의 허리띠",
+      "방출의 마법봉"
+    ],
+    "answer": "제어 와드",
+    "explanation": "제어 와드는 시야 확보와 적 와드 억제에 핵심적인 아이템이다."
+  },
+  {
+    "id": 131,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "장화 계열 아이템은 보통 이동 속도와 밀접하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "장화는 기본적으로 이동 속도와 합류 타이밍에 영향을 준다."
+  },
+  {
+    "id": 132,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "게임 초반 시작 아이템으로 가장 자주 떠올리는 것은?",
+    "options": [
+      "도란의 검",
+      "수호천사",
+      "라바돈의 죽음모자",
+      "워모그의 갑옷"
+    ],
+    "answer": "도란의 검",
+    "explanation": "도란 시리즈는 대표적인 시작 아이템이다."
+  },
+  {
+    "id": 133,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "제어 와드는 맵에 설치해 시야를 제공할 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "제어 와드는 설치형 시야 아이템이다."
+  },
+  {
+    "id": 134,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "치명타 기반 원거리 딜러와 특히 자주 연결되는 아이템은?",
+    "options": [
+      "무한의 대검",
+      "존야의 모래시계",
+      "워모그의 갑옷",
+      "공허의 지팡이"
+    ],
+    "answer": "무한의 대검",
+    "explanation": "무한의 대검은 치명타 기반 딜러의 대표 아이템이다."
+  },
+  {
+    "id": 135,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "높은 주문력(AP)과 상징처럼 연결되는 아이템은?",
+    "options": [
+      "라바돈의 죽음모자",
+      "망자의 갑옷",
+      "얼어붙은 심장",
+      "가시 갑옷"
+    ],
+    "answer": "라바돈의 죽음모자",
+    "explanation": "라바돈의 죽음모자는 주문력 아이템의 상징으로 자주 언급된다."
+  },
+  {
+    "id": 136,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "수호천사는 부활 효과로 자주 알려져 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "수호천사는 한타에서 다시 일어서는 효과로 유명하다."
+  },
+  {
+    "id": 137,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "존야의 모래시계와 가장 직접적으로 연결되는 특징은?",
+    "options": [
+      "짧은 시간 무적/경직 상태",
+      "즉시 순간이동",
+      "와드 충전",
+      "소환사 주문 교체"
+    ],
+    "answer": "짧은 시간 무적/경직 상태",
+    "explanation": "존야의 모래시계는 짧은 시간 자신을 보호하는 사용 효과로 유명하다."
+  },
+  {
+    "id": 138,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "easy",
+    "question": "다음 중 탱커형 아이템에 더 가까운 것은?",
+    "options": [
+      "워모그의 갑옷",
+      "무한의 대검",
+      "라바돈의 죽음모자",
+      "공허의 지팡이"
+    ],
+    "answer": "워모그의 갑옷",
+    "explanation": "워모그의 갑옷은 체력을 크게 늘려 주는 탱커 아이템이다."
+  },
+  {
+    "id": 139,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "도란의 검, 도란의 방패, 도란의 반지는 보통 언제 구매하는가?",
+    "options": [
+      "게임 초반 시작 단계",
+      "6코어 이후",
+      "바론 처치 직후만",
+      "후반 역전 상황 전용"
+    ],
+    "answer": "게임 초반 시작 단계",
+    "explanation": "도란 시리즈는 게임 시작 단계에 자주 구매하는 아이템이다."
+  },
+  {
+    "id": 140,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "제어 와드는 동시에 여러 개를 마음껏 설치하는 용도로는 제한이 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "제어 와드는 설치 개수 운용에 제한이 있어 위치 선택이 중요하다."
+  },
+  {
+    "id": 141,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "공허의 지팡이와 가장 잘 어울리는 설명은?",
+    "options": [
+      "주문 관통 계열 AP 아이템",
+      "치명타 전용 AD 아이템",
+      "체력 회복 소모품",
+      "이동 속도 전용 장화"
+    ],
+    "answer": "주문 관통 계열 AP 아이템",
+    "explanation": "공허의 지팡이는 높은 마법 저항력 대응용으로 자주 쓰인다."
+  },
+  {
+    "id": 142,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "피바라기와 가장 직접적으로 연결되는 능력치는 무엇인가?",
+    "options": [
+      "흡혈",
+      "마법 관통",
+      "군중 제어 저항",
+      "와드 설치"
+    ],
+    "answer": "흡혈",
+    "explanation": "피바라기는 공격력과 흡혈 이미지가 강한 아이템이다."
+  },
+  {
+    "id": 143,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "란두인의 예언은 치명타 기반 적을 상대할 때 자주 거론되는 방어 아이템이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "란두인의 예언은 치명타 대응용 탱커 아이템으로 유명하다."
+  },
+  {
+    "id": 144,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "서포터가 오브젝트 시야 싸움 전에 자주 챙기는 구매 대상으로 가장 적절한 것은?",
+    "options": [
+      "제어 와드",
+      "BF 대검",
+      "대천사의 지팡이",
+      "무한의 대검"
+    ],
+    "answer": "제어 와드",
+    "explanation": "오브젝트 교전 전 제어 와드 확보는 매우 중요하다."
+  },
+  {
+    "id": 145,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "삼위일체의 이미지와 가장 가까운 설명은?",
+    "options": [
+      "여러 능력치를 고루 제공하는 공격 아이템",
+      "순수 방어 전용 아이템",
+      "서포터 전용 시야 아이템",
+      "소모품 전용 상점 아이템"
+    ],
+    "answer": "여러 능력치를 고루 제공하는 공격 아이템",
+    "explanation": "삼위일체는 다양한 능력치를 묶은 공격 아이템 이미지가 강하다."
+  },
+  {
+    "id": 146,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "체력 물약과 제어 와드는 둘 다 경기 중 반복적으로 구매할 수 있는 소모성 성격이 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "두 아이템 모두 경기 중 필요에 따라 추가 구매하는 경우가 많다."
+  },
+  {
+    "id": 147,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "주문력 마법사가 큰 폭의 화력을 원할 때 떠올리기 쉬운 아이템은?",
+    "options": [
+      "라바돈의 죽음모자",
+      "망자의 갑옷",
+      "죽음의 무도",
+      "란두인의 예언"
+    ],
+    "answer": "라바돈의 죽음모자",
+    "explanation": "라바돈의 죽음모자는 고화력 AP 세팅의 대표적인 선택지다."
+  },
+  {
+    "id": 148,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "medium",
+    "question": "장화 업그레이드를 너무 늦게 하면 생기기 쉬운 문제는?",
+    "options": [
+      "이동과 합류 속도 열세",
+      "와드 구매 불가",
+      "궁극기 봉인",
+      "상점 이용 차단"
+    ],
+    "answer": "이동과 합류 속도 열세",
+    "explanation": "장화는 맵 이동과 교전 합류 속도에 직결된다."
+  },
+  {
+    "id": 149,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "hard",
+    "question": "오브젝트 시야 싸움 직전 제어 와드가 중요한 이유로 가장 적절한 것은?",
+    "options": [
+      "적 시야를 지우고 진입 정보를 숨길 수 있어서",
+      "강타 피해를 높여 줘서",
+      "미니언 경험치를 추가로 줘서",
+      "장화 이동 속도를 올려 줘서"
+    ],
+    "answer": "적 시야를 지우고 진입 정보를 숨길 수 있어서",
+    "explanation": "제어 와드는 오브젝트 지역에서 시야 주도권을 만드는 핵심 수단이다."
+  },
+  {
+    "id": 150,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "hard",
+    "question": "수호천사는 한타 후반에 한 번 더 버티거나 역전각을 만들 수 있는 변수로 평가된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "부활 효과가 있어 한타의 결말을 바꾸는 변수가 될 수 있다."
+  },
+  {
+    "id": 151,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "hard",
+    "question": "존야의 모래시계를 가장 잘 활용하는 상황은?",
+    "options": [
+      "집중 포화를 잠시 흘리거나 시간을 벌고 싶을 때",
+      "라인 미니언을 더 빨리 지우고 싶을 때",
+      "정글 경험치를 두 배로 받고 싶을 때",
+      "소환사 주문을 바꾸고 싶을 때"
+    ],
+    "answer": "집중 포화를 잠시 흘리거나 시간을 벌고 싶을 때",
+    "explanation": "존야는 적의 핵심 스킬을 흘리며 시간을 버는 데 강하다."
+  },
+  {
+    "id": 152,
+    "type": "multiple_choice",
+    "category": "item_shop",
+    "difficulty": "hard",
+    "question": "무한의 대검이 특히 빛나는 순간과 가장 가까운 설명은?",
+    "options": [
+      "치명타 기반 딜 세팅이 갖춰졌을 때",
+      "탱커가 체력만 올릴 때",
+      "와드만 계속 구매할 때",
+      "정글링 시작 직후"
+    ],
+    "answer": "치명타 기반 딜 세팅이 갖춰졌을 때",
+    "explanation": "무한의 대검은 치명타 중심 세팅에서 진가를 발휘한다."
+  },
+  {
+    "id": 153,
+    "type": "ox",
+    "category": "item_shop",
+    "difficulty": "hard",
+    "question": "상점 운영에서는 내 역할군과 상대 조합을 보고 아이템을 유동적으로 바꾸는 판단이 중요하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "아이템 선택은 챔피언 역할과 상대 조합을 함께 봐야 효율적이다."
+  },
+  {
+    "id": 154,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "에코와 가장 밀접한 지역은 어디인가?",
+    "options": [
+      "자운",
+      "데마시아",
+      "타곤",
+      "프렐요드"
+    ],
+    "answer": "자운",
+    "explanation": "에코는 자운 뒷골목 출신의 천재 소년으로 알려져 있다."
+  },
+  {
+    "id": 155,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "easy",
+    "question": "레오나와 가장 밀접한 지역은 어디인가?",
+    "options": [
+      "타곤",
+      "빌지워터",
+      "녹서스",
+      "이쉬탈"
+    ],
+    "answer": "타곤",
+    "explanation": "레오나는 타곤 산과 태양의 서사와 깊게 연결된다."
+  },
+  {
+    "id": 156,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "비에고를 가장 잘 설명하는 별칭은 무엇인가?",
+    "options": [
+      "몰락한 왕",
+      "진보의 군주",
+      "자운의 포식자",
+      "서리의 여왕"
+    ],
+    "answer": "몰락한 왕",
+    "explanation": "비에고는 몰락한 왕으로 잘 알려져 있다."
+  },
+  {
+    "id": 157,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "블리츠크랭크는 자운과 연관된 증기 골렘 이미지가 강하다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "블리츠크랭크는 자운의 거대한 증기 골렘이다."
+  },
+  {
+    "id": 158,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "나서스와 가장 관련 깊은 설명은 무엇인가?",
+    "options": [
+      "슈리마의 초월체",
+      "밴들 시티의 요들",
+      "자운의 발명가",
+      "필트오버의 보안관"
+    ],
+    "answer": "슈리마의 초월체",
+    "explanation": "나서스는 슈리마의 초월체로 유명하다."
+  },
+  {
+    "id": 159,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "medium",
+    "question": "브라움은 프렐요드와 깊게 연결된 영웅이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "브라움은 프렐요드를 대표하는 영웅형 챔피언이다."
+  },
+  {
+    "id": 160,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "다음 중 바스타야로만 이루어진 조합은?",
+    "options": [
+      "아리-자야-라칸",
+      "가렌-럭스-카타리나",
+      "브라움-애쉬-세주아니",
+      "블리츠크랭크-에코-바이"
+    ],
+    "answer": "아리-자야-라칸",
+    "explanation": "아리, 자야, 라칸은 모두 바스타야와 연결된다."
+  },
+  {
+    "id": 161,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "말파이트의 정체성으로 가장 알맞은 것은?",
+    "options": [
+      "거대한 암석 생명체",
+      "타곤의 성직자",
+      "몰락한 왕족",
+      "바닷속 요들"
+    ],
+    "answer": "거대한 암석 생명체",
+    "explanation": "말파이트는 거대한 암석 생명체 이미지로 유명하다."
+  },
+  {
+    "id": 162,
+    "type": "ox",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "아트록스는 다르킨에 해당하는 챔피언이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "아트록스는 대표적인 다르킨 챔피언이다."
+  },
+  {
+    "id": 163,
+    "type": "multiple_choice",
+    "category": "champion_basics",
+    "difficulty": "hard",
+    "question": "케이틀린의 상징적 직책과 가장 가까운 것은?",
+    "options": [
+      "필트오버의 보안관",
+      "녹서스의 집정관",
+      "슈리마의 황제",
+      "데마시아의 대마법사"
+    ],
+    "answer": "필트오버의 보안관",
+    "explanation": "케이틀린은 필트오버의 보안관으로 널리 알려져 있다."
+  },
+  {
+    "id": 164,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "가렌의 궁극기(R) 이름은 무엇인가?",
+    "options": [
+      "데마시아의 정의",
+      "심판",
+      "결정타",
+      "용기"
+    ],
+    "answer": "데마시아의 정의",
+    "explanation": "가렌의 궁극기(R)는 데마시아의 정의다."
+  },
+  {
+    "id": 165,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "easy",
+    "question": "애쉬의 궁극기(R) 이름은 무엇인가?",
+    "options": [
+      "마법의 수정화살",
+      "일제 사격",
+      "매날리기",
+      "서리 화살"
+    ],
+    "answer": "마법의 수정화살",
+    "explanation": "애쉬의 궁극기(R)는 마법의 수정화살이다."
+  },
+  {
+    "id": 166,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "티모의 Q 스킬 이름은 무엇인가?",
+    "options": [
+      "실명 다트",
+      "유독성 함정",
+      "게릴라전",
+      "신속한 이동"
+    ],
+    "answer": "실명 다트",
+    "explanation": "티모의 Q는 실명 다트다."
+  },
+  {
+    "id": 167,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "징크스의 Q 스킬 한국어 이름은 휘릭휘릭!이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 한국어 챔피언 페이지 기준 징크스의 Q는 휘릭휘릭!이다."
+  },
+  {
+    "id": 168,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "블리츠크랭크의 E 스킬 이름은 무엇인가?",
+    "options": [
+      "강철 주먹",
+      "로켓 손",
+      "정전기장",
+      "폭주"
+    ],
+    "answer": "강철 주먹",
+    "explanation": "블리츠크랭크의 E는 적을 띄우는 강철 주먹이다."
+  },
+  {
+    "id": 169,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "medium",
+    "question": "아무무의 궁극기(R) 이름은 무엇인가?",
+    "options": [
+      "슬픈 미라의 저주",
+      "짜증내기",
+      "절망",
+      "붕대 던지기"
+    ],
+    "answer": "슬픈 미라의 저주",
+    "explanation": "아무무의 R은 슬픈 미라의 저주다."
+  },
+  {
+    "id": 170,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "말파이트의 기본 지속 효과 이름은 무엇인가?",
+    "options": [
+      "화강암 방패",
+      "지진의 파편",
+      "멈출 수 없는 힘",
+      "천둥소리"
+    ],
+    "answer": "화강암 방패",
+    "explanation": "말파이트의 패시브는 화강암 방패다."
+  },
+  {
+    "id": 171,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "다리우스의 패시브 이름은 무엇인가?",
+    "options": [
+      "과다출혈",
+      "학살",
+      "포획",
+      "녹서스의 단두대"
+    ],
+    "answer": "과다출혈",
+    "explanation": "다리우스의 기본 지속 효과는 과다출혈이다."
+  },
+  {
+    "id": 172,
+    "type": "ox",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "럭스의 기본 지속 효과 이름은 광채이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "공식 한국어 챔피언 페이지에서 럭스의 패시브는 광채로 표기된다."
+  },
+  {
+    "id": 173,
+    "type": "multiple_choice",
+    "category": "skill_knowledge",
+    "difficulty": "hard",
+    "question": "다음 중 아리의 스킬 이름 조합으로만 이루어진 것은?",
+    "options": [
+      "현혹의 구슬 / 여우불 / 매혹 / 혼령 질주",
+      "빛의 속박 / 프리즘 보호막 / 광휘의 특이점 / 최후의 섬광",
+      "휘릭휘릭! / 빠직! / 와작와작 뻥! / 초강력 초토화 로켓!",
+      "결정타 / 용기 / 심판 / 데마시아의 정의"
+    ],
+    "answer": "현혹의 구슬 / 여우불 / 매혹 / 혼령 질주",
+    "explanation": "아리의 Q, W, E, R은 각각 현혹의 구슬, 여우불, 매혹, 혼령 질주다."
+  },
+  {
+    "id": 174,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "바텀 듀오에서 아군 원거리 딜러를 보호하고 시야를 담당하는 역할은?",
+    "options": [
+      "서포터",
+      "탑 라이너",
+      "정글러",
+      "미드 라이너"
+    ],
+    "answer": "서포터",
+    "explanation": "서포터는 바텀에서 보호와 시야 확보를 맡는 경우가 많다."
+  },
+  {
+    "id": 175,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "easy",
+    "question": "정글러는 강가 시야와 오브젝트 타이밍을 신경 쓸 일이 많다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "정글러는 드래곤, 전령, 바론 같은 오브젝트와 시야에 민감하다."
+  },
+  {
+    "id": 176,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "라인 주도권이 있을 때 얻기 쉬운 이점으로 가장 적절한 것은?",
+    "options": [
+      "오브젝트 합류와 시야 선점",
+      "상점 가격 할인",
+      "소환사 주문 추가 지급",
+      "경험치 두 배"
+    ],
+    "answer": "오브젝트 합류와 시야 선점",
+    "explanation": "라인 주도권은 강가 시야와 오브젝트 선점으로 이어지기 쉽다."
+  },
+  {
+    "id": 177,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "원거리 딜러는 보통 아군 보호 없이 혼자 맨앞에 서는 역할이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "X",
+    "explanation": "원거리 딜러는 일반적으로 후방에서 안전하게 화력을 넣는 것이 중요하다."
+  },
+  {
+    "id": 178,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "스플릿 푸시의 핵심 의도로 가장 적절한 것은?",
+    "options": [
+      "사이드 압박으로 적을 분산시키기",
+      "강타 업그레이드",
+      "와드 영구화",
+      "상점 잠금 해제"
+    ],
+    "answer": "사이드 압박으로 적을 분산시키기",
+    "explanation": "스플릿 푸시는 사이드 라인을 밀며 적을 끌어내는 운영이다."
+  },
+  {
+    "id": 179,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "medium",
+    "question": "로밍이 특히 쉬운 포지션으로 가장 자주 언급되는 곳은?",
+    "options": [
+      "미드",
+      "탑만",
+      "바텀 원딜만",
+      "정글 캠프 내부"
+    ],
+    "answer": "미드",
+    "explanation": "미드는 지도 중앙에 있어 양쪽 개입이 비교적 쉽다."
+  },
+  {
+    "id": 180,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "시야 없이 깊숙이 전진하면 라인이 짧더라도 갱 위험이 커질 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "시야와 적 위치 파악은 라인 길이와 별개로 중요하다."
+  },
+  {
+    "id": 181,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "탑 라이너의 텔레포트 활용 가치로 가장 적절한 것은?",
+    "options": [
+      "다른 라인 교전에 수적 우위를 만들기",
+      "강타 피해 늘리기",
+      "와드 시야 삭제",
+      "패시브 초기화"
+    ],
+    "answer": "다른 라인 교전에 수적 우위를 만들기",
+    "explanation": "텔레포트는 먼 거리 교전에 즉시 개입할 수 있다는 점이 강점이다."
+  },
+  {
+    "id": 182,
+    "type": "ox",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "오브젝트 앞 한타에서 서포터의 시야 장악은 전투 시작 조건 자체를 바꿀 수 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "시야는 먼저 보는 쪽이 교전 설계를 유리하게 만드는 핵심 요소다."
+  },
+  {
+    "id": 183,
+    "type": "multiple_choice",
+    "category": "position_sense",
+    "difficulty": "hard",
+    "question": "한타에서 후방 딜러를 노리는 적 암살자를 막기 가장 좋은 아군 역할로 자주 꼽히는 것은?",
+    "options": [
+      "서포터 또는 보호형 전위",
+      "스플릿 전용 챔피언만",
+      "정글 몬스터",
+      "미니언 웨이브"
+    ],
+    "answer": "서포터 또는 보호형 전위",
+    "explanation": "보호형 조합에서는 서포터나 전위가 딜러 보호에 핵심 역할을 한다."
+  },
+  {
+    "id": 184,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "비에고와 가장 깊게 연결되는 사건/키워드는 무엇인가?",
+    "options": [
+      "몰락",
+      "마법공학 혁명",
+      "공허 개화",
+      "서리 전쟁"
+    ],
+    "answer": "몰락",
+    "explanation": "비에고는 몰락한 왕이며 몰락 서사의 중심 인물이다."
+  },
+  {
+    "id": 185,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "easy",
+    "question": "에코의 대표 장치 이름은 무엇인가?",
+    "options": [
+      "Z 드라이브",
+      "세계 룬",
+      "태양 원반",
+      "마법 수정활"
+    ],
+    "answer": "Z 드라이브",
+    "explanation": "에코는 Z 드라이브를 통해 시간을 다루는 서사로 유명하다."
+  },
+  {
+    "id": 186,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "칼리스타는 복수와 맹세를 집행하는 존재로 자주 묘사된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "칼리스타는 맹세를 저버린 자에게 복수를 내리는 존재로 알려져 있다."
+  },
+  {
+    "id": 187,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "카이사가 공허 서사와 연결되는 이유로 가장 적절한 것은?",
+    "options": [
+      "공허 속에서 살아남아 그 힘에 적응했기 때문",
+      "공허를 창조한 황제이기 때문",
+      "요들의 문을 열었기 때문",
+      "데마시아 왕가 출신이기 때문"
+    ],
+    "answer": "공허 속에서 살아남아 그 힘에 적응했기 때문",
+    "explanation": "카이사는 공허에서 살아남은 경험이 핵심 정체성이다."
+  },
+  {
+    "id": 188,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "야스오가 오랫동안 짊어진 비극으로 가장 적절한 것은?",
+    "options": [
+      "스승 살해 누명",
+      "왕위 찬탈",
+      "공허 타락",
+      "해적 반란"
+    ],
+    "answer": "스승 살해 누명",
+    "explanation": "야스오 서사의 중심에는 스승 살해 누명과 방랑이 있다."
+  },
+  {
+    "id": 189,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "medium",
+    "question": "요네는 죽음 이후 악령과 얽힌 존재로 다시 돌아온 인물이다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "요네는 죽은 뒤 악령과 얽히며 다른 방식으로 돌아온 인물이다."
+  },
+  {
+    "id": 190,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "모르가나와 케일 서사를 관통하는 핵심 구조는 무엇인가?",
+    "options": [
+      "서로 다른 정의관을 가진 자매",
+      "원수인 해적단 두목",
+      "정글과 바텀의 라이벌",
+      "공허와 자운의 발명 경쟁"
+    ],
+    "answer": "서로 다른 정의관을 가진 자매",
+    "explanation": "모르가나와 케일은 자매이면서 정의를 바라보는 관점이 크게 다르다."
+  },
+  {
+    "id": 191,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "공식 설정상 아이오니아를 가리키는 별칭으로 널리 알려진 것은?",
+    "options": [
+      "First Lands",
+      "Sun Empire",
+      "Iron Depths",
+      "Black Rose Realm"
+    ],
+    "answer": "First Lands",
+    "explanation": "아이오니아는 First Lands라는 별칭으로도 알려져 있다."
+  },
+  {
+    "id": 192,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "볼리베어는 '수많은 상처를 입은 곰'이라는 별칭과 연결된다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "볼리베어는 The Thousand-Pierced Bear라는 별칭으로도 알려져 있다."
+  },
+  {
+    "id": 193,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "오른과 가장 직접적으로 연결되는 개념은 무엇인가?",
+    "options": [
+      "대장간과 창조",
+      "해적질과 항해",
+      "환영 마법과 매혹",
+      "자운의 화학공학"
+    ],
+    "answer": "대장간과 창조",
+    "explanation": "오른은 장인과 대장간의 이미지가 매우 강한 존재다."
+  },
+  {
+    "id": 194,
+    "type": "ox",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "리븐과 야스오 서사에는 부러진 검과 재판, 진실 규명이 얽혀 있다.",
+    "options": [
+      "O",
+      "X"
+    ],
+    "answer": "O",
+    "explanation": "리븐과 야스오 서사는 부러진 검날과 재판, 누명의 진실이 엮인다."
+  },
+  {
+    "id": 195,
+    "type": "multiple_choice",
+    "category": "lore_world",
+    "difficulty": "hard",
+    "question": "다음 중 그림자 군도와 가장 직접적으로 연결되는 챔피언은 누구인가?",
+    "options": [
+      "쓰레쉬",
+      "에코",
+      "가렌",
+      "브라움"
+    ],
+    "answer": "쓰레쉬",
+    "explanation": "쓰레쉬는 그림자 군도를 대표하는 챔피언 중 하나다."
   }
 ]
